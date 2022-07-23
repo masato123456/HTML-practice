@@ -1,0 +1,22 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+
+.main-visual{height:300px;width:100%;
+background-image:url(img/mv.jpg);
+background-size:cover;
+background-position:bottom;}
+  
+.service{padding:20px;
+  font-size:30px;color:gray;font-weight:bold;
+}
+
+main{margin:50px auto;width:840px}
+
+.gazou{display:block;width:20%;height:20%;
+  margin-bottom:15px;
+}
+
+.sentence{color:black;}
+
+.box{padding-bottom:30px;
+border-bottom:1px solid #f7f7f7;}
+
