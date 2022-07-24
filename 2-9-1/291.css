@@ -1,0 +1,40 @@
+*{margin:0;padding:0;box-sizing:border-box;}
+
+header{height:50px;
+background-color:#ff9a4b;}
+
+main{padding:50px;width:960px;
+    display:flex;
+    justify-content:center;margin:0 auto;
+}
+
+.step{width:300px;padding:10px;margin-right:30px;position:relative;
+background-color:#eeeeee;}
+
+
+.img1{height:150px;background-image:url(img/flow01.png);
+background-size:cover;
+}
+
+.st,.st2,.st3{color:white;width:60px;height:30px;
+position:absolute;top:0;left:0;
+text-align:center;
+background-color:#ff9a4b;}
+
+.img2{height:150px;background-image:url(img/flow02.png);
+background-size:cover;
+}
+
+.img3{height:150px;background-image:url(img/flow03.png);
+background-size:cover;
+}
+
+
+h3{margin:15px 0 5px 0;
+}
+
+p{font-size:10px;}
+
+
+footer{height:50px;
+background-color:#aaaaaa;}
